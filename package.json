@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/ZGenieZ/movieql#readme",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "axios": "^0.20.0",
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
